@@ -1,0 +1,7 @@
+D:\Mycsharp\minilibarary\minilibarary\obj\Debug\minilibarary.csproj.AssemblyReference.cache
+D:\Mycsharp\minilibarary\minilibarary\obj\Debug\minilibarary.csproj.CoreCompileInputs.cache
+D:\Mycsharp\minilibarary\minilibarary\bin\Debug\minilibarary.exe.config
+D:\Mycsharp\minilibarary\minilibarary\bin\Debug\minilibarary.exe
+D:\Mycsharp\minilibarary\minilibarary\bin\Debug\minilibarary.pdb
+D:\Mycsharp\minilibarary\minilibarary\obj\Debug\minilibarary.exe
+D:\Mycsharp\minilibarary\minilibarary\obj\Debug\minilibarary.pdb
